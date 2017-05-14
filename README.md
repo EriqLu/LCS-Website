@@ -1,2 +1,3 @@
-# LCS-Website
-# A website for the Latinos in Computer Science RSO at the University of Illinois at Urbana-Champaign.
+# LCS-Web Development
+# Register Student Organization
+# A website for the Latinos in Computer Science at the University of Illinois at Urbana-Champaign.
