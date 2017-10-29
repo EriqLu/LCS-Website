@@ -8,7 +8,7 @@ Our oranization's major role is to target and support Latino/as who are interest
 
 During the year, members involved through projects, events, and meetings to build their resumes and meet new people. 
 
-This website is a project that is part of the student organization Latinos in Computer Science @ UIUC. Owner: Alex Magana & Jose Bucio
+This website is a project that is part of the student organization Latinos in Computer Science @ UIUC. Owner: Alex Magana (@amagana8) & Jose Bucio (@jlbucio4)
 
 
 
