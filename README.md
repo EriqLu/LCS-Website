@@ -17,6 +17,4 @@ So far, we are putting all of the pieces together and make adjustments later in 
 After our website, we are will develop an application, robotics, and a product that involves using a 3-D Printing to be present to new members for next year and for Engineering Open House coming this March 2018. Stay Tune. 
 
 # Web Development Credits
-Alex Magana - Class of 2019
-Jose Bucio - Class of 2018
-Javier Garza - Class of 2020
+Alex Magana - Class of 2019, Jose Bucio - Class of 2018, Javier Garza - Class of 2020
