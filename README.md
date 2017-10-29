@@ -11,7 +11,7 @@ During the year, members involved through projects, events, and meetings to buil
 This website is a project that is part of the student organization Latinos in Computer Science @ UIUC. Owner: Alex Magana (@amagana8) 
 
 # Our Progress of the Website
-So far, we are putting all of the pieces together and make adjustments later in the semester. We have a new member is helping us working on the website that helps us keep our progress a lot quicker. We will be ready to release our website before December 2017 as a goodbye 2017 present and hello to 2018.
+So far, we are putting all of the pieces together and make adjustments later in the semester. We have a new member is helping us working on the website that helps us keep our progress a lot quicker. We will be ready to release our website before December 2017 as a goodbye 2017 present and say hello to 2018.
 
 # What's next for Latinos in Computer Science
 After our website, we are will develop an application, robotics, and a product that involves using a 3-D Printing to be present to new members for next year and for Engineering Open House coming this March 2018. Stay Tune. 
