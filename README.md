@@ -1,4 +1,4 @@
-# Latinos in Computer Science @ University of Illinois
+# Latino/as in Computer Science @ University of Illinois
 Department of Computer Science | College of Engineering | Urbana, Illinois 
 
 # About Us 
@@ -8,7 +8,7 @@ Our oranization's major role is to target and support Latino/as who are interest
 
 During the year, members involved through projects, events, and meetings to build their resumes and meet new people. 
 
-This website is a project that is part of the student organization Latinos in Computer Science @ UIUC. Owner: Alex Magana (@amagana8) 
+This website is a project that is part of the student organization Latinos in Computer Science @ UIUC. Owner: Alex Magana (@amagana8) & Jose Bucio (@jlbucio4)
 
 # Our Progress of the Website
 So far, we are putting all of the pieces together and make adjustments later in the semester. We have a new member is helping us working on the website that helps us keep our progress a lot quicker. We will be ready to release our website before December 2017 as a goodbye 2017 present and say hello to 2018.
@@ -17,4 +17,4 @@ So far, we are putting all of the pieces together and make adjustments later in 
 After our website, we are will develop an application, robotics, and a product that involves using a 3-D Printing to be present to new members for next year and for Engineering Open House coming this March 2018. Stay Tune. 
 
 # Web Development Credits
-Alex Magana - Class of 2019, Jose Bucio - Class of 2018, Javier Garza - Class of 2020
+Alex Magana - Class of 2020, Jose Bucio - Class of 2018, Javier Garza - Class of 2021, Diego Frausto - Class of 2020
