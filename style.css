@@ -44,16 +44,10 @@ h6{
 	color: ;
 }
 
-p{
-	font-family: , sans-serif
-}
+p{ font-family: , sans-serif }
 
-a{
-	color: ;
-}
-a:hover{
-	color: ;
-}
+a{ color: ; }
+a:hover{ color: ; }
 #navbar {
 	list-style-type: none;
 	margin: 0;
@@ -63,9 +57,7 @@ a:hover{
 	background-color: #f3f3f3;
 	}
 
-	li {
-	float: left;
-	}
+	li { float: left; }
 
 	li a {
 	display: block;
