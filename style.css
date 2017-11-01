@@ -47,7 +47,9 @@ h6{
 p{ font-family: , sans-serif }
 
 a{ color: ; }
+
 a:hover{ color: ; }
+
 #navbar {
 	list-style-type: none;
 	margin: 0;
@@ -77,7 +79,8 @@ a:hover{ color: ; }
 }
 
 #about_us {
-	
+	display: ;
+	padding: ;
 }
 
 #alumni {
@@ -215,7 +218,7 @@ a:hover{ color: ; }
 	background-color: ;
 	border-color: ;
 }
-iframeOutside{
+.iframeOutside {
 	text-algin: center;
 }
 
@@ -224,9 +227,45 @@ iframeOutside{
 	padding: ;
 	color: ;
 }
-
-#sponsors .list-item{
-}
+	#sponsors .list{
+		paddingL
+		list-style-type: ;
+		display: ;
+		flex-wrap: ;
+	}
+	#sponsors .list-item{
+		padding: ;
+		align-items: ;
+		justify-content: ;
+		padding: ;
+		width: ;
+		margin-top: ;
+	}
+	#sponsors .list-item-link{
+		position: ;
+	}
+	#sponsors .list-item-image{
+		top: ;
+		width: ;
+		max-width: ;
+		max-height: ;
+	}
+	@media all and (min-width: ) {
+		#sponsors .list-item{
+			width: ;
+		}
+	}
+	@media all and (max-width: ) {
+		#sponsors .list-item{
+			width: ;
+			padding: ;
+		}
+	@media all and (max-width: ) {
+		#sponsors .list-item{
+			width: ;
+		}
+	}
+		
 
 footer{
 	background-color: ;
