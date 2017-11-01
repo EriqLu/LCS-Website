@@ -10,7 +10,50 @@ html{
 	width: ;
 	height: ; 
 }
+h1{ 
+	font-family: ;
+	font-weight: ;
+	color: ;
+}
 
+h2{
+	font-family: ;
+	font-weight: ;
+	color: ;
+}
+
+h3 {
+	font-family: ;
+	font-weight: ;
+	color: ;
+}
+
+h4{
+	font-family: ;
+	color: ;
+}
+
+h5{
+	font-family: ;
+	font-weight: ;
+	color: ;
+}
+
+h6{
+	font-family: ;
+	color: ;
+}
+
+p{
+	font-family: , sans-serif
+}
+
+a{
+	color: ;
+}
+a:hover{
+	color: ;
+}
 #navbar {
 	list-style-type: none;
 	margin: 0;
@@ -46,7 +89,16 @@ html{
 }
 
 #alumni {
-	
+	display: ;
+	padding: ;
+}
+
+#featuredAlumi{
+	padding: ;
+}
+#featuredAlumi .alumiPicture {
+	height: ;
+	width: ;
 }
 
 #contact {
@@ -56,25 +108,25 @@ html{
 	background-color: ;
 }
 
-#contact .form-control {
-	font-family: "", sans-serif; 
-}
-#contact .label{
-	 font-family: "". sans-serif;
-}
-#contact .btn-primary{
-	background-color: ;
-	border-color: ;
-	color: ;
-}
-#contact .btn-primary:hover{
-	background-color: ;
-	color: ;
-}
+	#contact .form-control {
+		font-family: "", sans-serif; 
+	}
+	#contact .label{
+	 	font-family: "". sans-serif;
+	}
+	#contact .btn-primary{
+		background-color: ;
+		border-color: ;
+		color: ;
+	}
+	#contact .btn-primary:hover{
+		background-color: ;
+		color: ;
+	}
 
-#contact .contact-form{
-	padding-top: ;
-}
+	#contact .contact-form{
+		padding-top: ;
+	}
 
 @media (max-width: ){
 	#contact{
@@ -83,7 +135,10 @@ html{
 }
 
 #events {
-	
+	margin-top: ;
+	#events iframe{
+		width: ;
+	}
 }
 
 #home {
@@ -105,9 +160,51 @@ html{
 	color: ;
 }
 
-#officers {
-	
+@media only screen and (max-width: ){
+	#home {
+		padding: ;
+		text-algin: ;
+	}
+	#home .home-image-container {
+		font-size: ;
+		width: ;
+	}
+	#home .home-header-container{
+		width: ;
+	}
+	#home .home-header-container .home-header{
+		font-size: ;
+	}
+	#home .home-header-container .home-subheader{
+		font-size: ;
+		margin: ;
+		color: ;
+	}
 }
+			
+#officers {
+	padding: ;
+	background-color: ;
+}
+#officers h1{
+	color: ; 
+	margin-bottom: ;
+}
+@media (max-width: ){
+	#officers{
+		padding: ;
+	}
+}
+ .officerPicture{
+	 width: ;
+	 height: ;
+}
+
+.officer-box{
+	border: ;
+	cursor: ;
+}
+
 
 #resources {
 	
