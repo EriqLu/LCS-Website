@@ -1,6 +1,14 @@
 /* Main Components */
 body {
     background-color: lightblue;
+	front-family: "", sans-serif;
+	width: ;
+	height: ;
+}
+
+html{
+	width: ;
+	height: ; 
 }
 
 #navbar {
@@ -42,7 +50,36 @@ body {
 }
 
 #contact {
-	
+	display: ;
+	padding: ;
+	color: ;
+	background-color: ;
+}
+
+#contact .form-control {
+	font-family: "", sans-serif; 
+}
+#contact .label{
+	 font-family: "". sans-serif;
+}
+#contact .btn-primary{
+	background-color: ;
+	border-color: ;
+	color: ;
+}
+#contact .btn-primary:hover{
+	background-color: ;
+	color: ;
+}
+
+#contact .contact-form{
+	padding-top: ;
+}
+
+@media (max-width: ){
+	#contact{
+		padding: ;
+	}
 }
 
 #events {
@@ -50,7 +87,22 @@ body {
 }
 
 #home {
-	
+	padding: ;
+	background: url() no repeat center center: 
+	}
+ #home .home-header-container {
+	 width: ;
+	 padding: ;
+	 text-align: center;
+}
+#home .home-header-container .home-header {
+	front-size: ;
+	color: ;
+}
+
+#home .home-header-container .header-subheader {
+	margin: ;
+	color: ;
 }
 
 #officers {
@@ -64,3 +116,16 @@ body {
 #sponsors{
 }
 
+footer{
+	background-color: ;
+	color: ;
+	padding: ;
+	text-align: center;
+}
+	footer p{
+		margin: ;
+	}
+
+	footer a{
+		color: ;
+	}
