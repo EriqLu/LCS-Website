@@ -207,10 +207,33 @@ a:hover{
 
 
 #resources {
-	
+	display: ;
+	padding: ;
+}
+
+.resource-header{
+	padding-bottom: ;
+}
+
+.panel {
+	border: ;
+}
+.panel .panel-heading{
+	border: ;
+	background-color: ;
+	border-color: ;
+}
+iframeOutside{
+	text-algin: center;
 }
 
 #sponsors{
+	display: ;
+	padding: ;
+	color: ;
+}
+
+#sponsors .list-item{
 }
 
 footer{
