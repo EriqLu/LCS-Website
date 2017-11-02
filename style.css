@@ -47,8 +47,20 @@ h6{
 p{ font-family: , sans-serif }
 
 a{ color: ; }
+a:hover{color:}
 
 a:hover{ color: ; }
+
+socialMediaLinks{
+	display: ;
+	padding-left: ;
+}
+
+#socialMediaLinks li{
+	display: ;
+	margin: ;
+}
+
 
 #navbar {
 	list-style-type: none;
@@ -176,6 +188,54 @@ a:hover{ color: ; }
 		color: ;
 	}
 }
+
+.member-subheaders{
+	text-algin: ;
+	margin-bottom: ;
+	margin-top: ;
+}
+
+.memberImage{
+	margin-bottom: ;
+	background-repeat: ;
+	background-position: ;
+	position: ;
+	text-algin: ;
+	vertical-algin: ;
+	min-height: ;
+}
+
+.memberImage p{
+	font-weight: ;
+	color: ;
+	text-transform: ;
+	margin: ;
+	position: ;
+	top: ;
+	left: ;
+	transform: translate( %, %);
+}
+
+.quickLinks{
+	background-repeat: ;
+	background-size: ;
+	background-position: ;
+	position: ;
+	text-align: ;
+	vertical-algin: ;
+	min-height: ;
+}
+.quickLinks p{
+	font-weight: ;
+	color: ;
+	text-transform: ;
+	margin: ;
+	position: ;
+	top: ;
+	left: ;
+	transform: translate( %, %); 
+}
+
 			
 #officers {
 	padding: ;
