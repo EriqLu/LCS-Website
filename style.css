@@ -134,6 +134,11 @@ socialMediaLinks{
 	#contact .contact-form{
 		padding-top: ;
 	}
+	@media (max-width: ){
+		#contact{
+			padding: ;
+		}
+	}
 
 @media (max-width: ){
 	#contact{
@@ -147,7 +152,29 @@ socialMediaLinks{
 		width: ;
 	}
 }
-
+#helpme{
+	margin-top: ; 
+}
+	.member-map{
+		height: ;
+		width: ;
+		padding: ; }
+	.member-links {
+		padding-top: ;
+		list-style-type: ;
+		text-aligin: ; }
+	.member-links > li {
+		display: list-item; }
+	.member-button {
+		font-size: ; }
+	.btn {
+		font-weight: ; }
+	.form-inline{
+		margin-top: ;
+		margin-bottom: ;
+		text-algin: ;
+		padding: ;
+}
 #home {
 	padding: ;
 	background: url() no repeat center center: 
