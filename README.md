@@ -17,4 +17,4 @@ So far, we are putting all of the pieces together and make adjustments later in 
 After our website, we are developing an application, robotics, and a product that involves using a 3-D Printing to be present to new members for next year and for Engineering Open House coming this March 2018. Adding to that, we will be part of HackIllinois to spread the word, recieve sponsorships, and present our progress as a club. Stay Tune. 
 
 # Web Development Credits
-Alex Magana - Class of 2020, Jose Bucio - Class of 2018, Javier Garza - Class of 2021, Diego Frausto - Class of 2020
+Alex Magana, Jose Bucio, Javier Garza
