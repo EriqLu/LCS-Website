@@ -2,7 +2,7 @@
 Department of Computer Science | College of Engineering | Urbana, Illinois 
 
 # About Us 
-We are a registered student organzation part of Department of Computer Science for Hispanics/Latinos as being underrepresented group in the Computer Science field. 
+We are a registered student organzation part of Department of Computer Science for Hispanics as being underrepresented group in the Computer Science field. 
 
 Our oranization's major role is to target and support Latino/as who are interested to learn Computer Science that can apply to science, technology, engineering, mathematics, etc. Everyone is welcome and to learn about Computer Science and the College of Engineering. 
 
