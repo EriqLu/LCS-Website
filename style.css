@@ -1,4 +1,4 @@
-/* Main Components */
+/* Main Components of the Website */
 body {
     background-color: lightblue;
 	front-family: "", sans-serif;
@@ -93,11 +93,15 @@ socialMediaLinks{
 #about_us {
 	display: ;
 	padding: ;
+	color: ;
+	background-color: ;
 }
 
 #alumni {
 	display: ;
 	padding: ;
+	color: ;
+	background-color: ;
 }
 
 #featuredAlumi{
@@ -179,20 +183,20 @@ socialMediaLinks{
 	padding: ;
 	background: url() no repeat center center: 
 	}
- #home .home-header-container {
-	 width: ;
-	 padding: ;
-	 text-align: center;
-}
-#home .home-header-container .home-header {
-	front-size: ;
-	color: ;
-}
+ 	#home .home-header-container {
+		width: ;
+	 	padding: ;
+	 	text-align: center;
+	}
+	#home .home-header-container .home-header {
+		front-size: ;
+		color: ;
+	}
 
-#home .home-header-container .header-subheader {
-	margin: ;
-	color: ;
-}
+	#home .home-header-container .header-subheader {
+		margin: ;
+		color: ;
+	}
 
 @media only screen and (max-width: ){
 	#home {
@@ -268,46 +272,41 @@ socialMediaLinks{
 	padding: ;
 	background-color: ;
 }
-#officers h1{
-	color: ; 
-	margin-bottom: ;
-}
-@media (max-width: ){
-	#officers{
-		padding: ;
+	#officers h1{
+		color: ; 
+		margin-bottom: ;
 	}
-}
- .officerPicture{
-	 width: ;
-	 height: ;
-}
-
-.officer-box{
-	border: ;
-	cursor: ;
-}
-
+	@media (max-width: ){
+		#officers{	padding: ; }
+	}
+ 	.officerPicture{
+	 	width: ;
+	 	height: ;
+	}
+	.officer-box{
+		border: ;
+		cursor: ;
+	}
 
 #resources {
 	display: ;
 	padding: ;
 }
+	.resource-header{
+		padding-bottom: ;
+	}
 
-.resource-header{
-	padding-bottom: ;
-}
-
-.panel {
-	border: ;
-}
-.panel .panel-heading{
-	border: ;
-	background-color: ;
-	border-color: ;
-}
-.iframeOutside {
-	text-algin: center;
-}
+	.panel {
+		border: ;
+	}
+	.panel .panel-heading{
+		border: ;
+		background-color: ;
+		border-color: ;
+	}
+	.iframeOutside {
+		text-algin: center;
+	}
 
 #sponsors{
 	display: ;
