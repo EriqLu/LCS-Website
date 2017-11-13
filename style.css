@@ -53,7 +53,7 @@ a:hover{ color:#e84c3d ; }
 
 socialMediaLinks{
 	display: block;
-	padding-left:0px ;
+	padding-left: 0px ;
 }
 
 #socialMediaLinks li{
@@ -91,10 +91,10 @@ socialMediaLinks{
 }
 
 #about_us {
-	display: ;
-	padding: ;
-	color: ;
-	background-color: ;
+	display: block;
+	padding: 5% 5%;
+	color: blue ;
+	background-color: light-blue;
 }
 
 #alumni {
@@ -151,33 +151,33 @@ socialMediaLinks{
 }
 
 #events {
-	margin-top: ;
+	margin-top: 30px;
 	#events iframe{
-		width: ;
+		width: 100%;
 	}
 }
 #helpme{
-	margin-top: ; 
+	margin-top: 50px; 
 }
 	.member-map{
-		height: ;
-		width: ;
-		padding: ; }
+		height: 500px;
+		width: 100%;
+		padding: 5%; }
 	.member-links {
-		padding-top: ;
-		list-style-type: ;
-		text-aligin: ; }
+		padding-top: 2%;
+		list-style-type: none;
+		text-aligin: center; }
 	.member-links > li {
 		display: list-item; }
 	.member-button {
-		font-size: ; }
+		font-size:large ; }
 	.btn {
-		font-weight: ; }
+		font-weight: bold; }
 	.form-inline{
-		margin-top: ;
-		margin-bottom: ;
-		text-algin: ;
-		padding: ;
+		margin-top: 5%;
+		margin-bottom: 5% ;
+		text-algin: center;
+		padding: 5%;
 }
 #home {
 	padding: ;
