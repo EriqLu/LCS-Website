@@ -47,18 +47,18 @@ h6{
 p{ font-family: "Courier", sans-serif; }
 
 a{ color:#00ff00 ; }
-a:hover{color:#333333 }
+a:hover{color:#e84c3d }
 
-a:hover{ color:#333333 ; }
+a:hover{ color:#e84c3d ; }
 
 socialMediaLinks{
-	display: ;
-	padding-left: ;
+	display: block;
+	padding-left:0px ;
 }
 
 #socialMediaLinks li{
-	display: ;
-	margin: ;
+	display:inline ;
+	margin:10px ;
 }
 
 
@@ -98,10 +98,10 @@ socialMediaLinks{
 }
 
 #alumni {
-	display: ;
-	padding: ;
-	color: ;
-	background-color: ;
+	display: block ;
+	padding: 5% 5%;
+	color: blue ;
+	background-color: light-blue;
 }
 
 #featuredAlumi{
@@ -113,34 +113,34 @@ socialMediaLinks{
 }
 
 #contact {
-	display: ;
-	padding: ;
-	color: ;
-	background-color: ;
+	display: block;
+	padding: 5% 5% ;
+	color: #e84c3d;
+	background-color:#f5f3ee;
 }
 
 	#contact .form-control {
-		font-family: "", sans-serif; 
+		font-family: "Arial", sans-serif; 
 	}
 	#contact .label{
-	 	font-family: "". sans-serif;
+	 	font-family: "Arial". sans-serif;
 	}
 	#contact .btn-primary{
-		background-color: ;
-		border-color: ;
-		color: ;
+		background-color: #e84c3d;
+		border-color:#e84c3d ;
+		color:#fff ;
 	}
 	#contact .btn-primary:hover{
-		background-color: ;
-		color: ;
+		background-color:#e84c3d ;
+		color: #f5f3ee;
 	}
 
 	#contact .contact-form{
-		padding-top: ;
+		padding-top: 5% ;
 	}
-	@media (max-width: ){
+	@media (max-width: 749px){
 		#contact{
-			padding: ;
+			padding: 10px;
 		}
 	}
 
@@ -354,15 +354,15 @@ socialMediaLinks{
 		
 
 footer{
-	background-color: ;
-	color: ;
-	padding: ;
+	background-color:#e84c3d ;
+	color: white;
+	padding:3% 3% 3% 3% ;
 	text-align: center;
 }
 	footer p{
-		margin: ;
+		margin: 0;
 	}
 
 	footer a{
-		color: ;
+		color:white ;
 	}
