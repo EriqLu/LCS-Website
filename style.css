@@ -269,47 +269,47 @@ socialMediaLinks{
 
 			
 #officers {
-	padding: ;
-	background-color: ;
+	padding: 5% 5%;
+	background-color: #f5f3ee;
 }
 	#officers h1{
-		color: ; 
-		margin-bottom: ;
+		color: #f5f3ee; 
+		margin-bottom: 5%;
 	}
-	@media (max-width: ){
-		#officers{	padding: ; }
+	@media (max-width: 750px){
+		#officers{	padding: 10% 5%; }
 	}
  	.officerPicture{
-	 	width: ;
-	 	height: ;
+	 	width: 100%;
+	 	height: auto;
 	}
 	.officer-box{
-		border: ;
-		cursor: ;
+		border: 0;
+		cursor: pointer;
 	}
 
 #resources {
-	display: ;
-	padding: ;
+	display: block;
+	padding: 5% 5% ;
 }
 	.resource-header{
-		padding-bottom: ;
+		padding-bottom: 5%;
 	}
 
 	.panel {
-		border: ;
+		border: none;
 	}
 	.panel .panel-heading{
-		border: ;
-		background-color: ;
-		border-color: ;
+		border: none;
+		background-color: #bbbb;
+		border-color: #bbbb;
 	}
 	.iframeOutside {
 		text-algin: center;
 	}
 
 #sponsors{
-	display:block ;
+	display: block;
 	padding: 5% 5%;
 	color: #e84c3d ;
 }
