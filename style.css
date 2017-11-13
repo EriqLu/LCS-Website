@@ -75,7 +75,7 @@ socialMediaLinks{
 
 	li a {
 	display: block;
-	color: #666;
+	color: #600;
 	text-align: center;
 	padding: 14px 16px;
 	text-decoration: none;
@@ -105,11 +105,11 @@ socialMediaLinks{
 }
 
 #featuredAlumi{
-	padding: ;
+	padding: 5% 10%;
 }
 #featuredAlumi .alumiPicture {
-	height: ;
-	width: ;
+	height: auto;
+	width: 100% ;
 }
 
 #contact {
@@ -309,46 +309,46 @@ socialMediaLinks{
 	}
 
 #sponsors{
-	display: ;
-	padding: ;
-	color: ;
+	display:block ;
+	padding: 5% 5%;
+	color: #e84c3d ;
 }
 	#sponsors .list{
-		paddingL
-		list-style-type: ;
-		display: ;
-		flex-wrap: ;
+		padding: 0;
+		list-style-type: none;
+		display: flex ;
+		flex-wrap: wrap;
 	}
 	#sponsors .list-item{
-		padding: ;
-		align-items: ;
-		justify-content: ;
-		padding: ;
-		width: ;
-		margin-top: ;
+		padding: flex;
+		align-items: center;
+		justify-content: center;
+		padding: 1em;
+		width: 100% ;
+		margin-top: 5% ;
 	}
 	#sponsors .list-item-link{
-		position: ;
+		position:  relative;
 	}
 	#sponsors .list-item-image{
-		top: ;
-		width: ;
-		max-width: ;
-		max-height: ;
+		top: 50%;
+		width: auto;
+		max-width: 100%;
+		max-height: 200px;
 	}
-	@media all and (min-width: ) {
+	@media all and (min-width: 40em) {
 		#sponsors .list-item{
-			width: ;
+			width: 50%;
 		}
 	}
-	@media all and (max-width: ) {
+	@media all and (max-width: 60em) {
 		#sponsors .list-item{
-			width: ;
-			padding: ;
+			width: 20%;
+			padding: 2%;
 		}
-	@media all and (max-width: ) {
+	@media all and (max-width:40em ) {
 		#sponsors .list-item{
-			width: ;
+			width: 50%;
 		}
 	}
 		
