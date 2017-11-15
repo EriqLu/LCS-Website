@@ -180,50 +180,50 @@ socialMediaLinks{
 		padding: 5%;
 }
 #home {
-	padding: ;
-	background: url() no repeat center center: 
+	padding: 5% 0 5% 0 ;
+	background: url("../img/lcs/officers.jpg") no repeat center center: 
 	}
  	#home .home-header-container {
-		width: ;
-	 	padding: ;
+		width: 100%;
+	 	padding: 2%;
 	 	text-align: center;
 	}
 	#home .home-header-container .home-header {
-		front-size: ;
-		color: ;
+		front-size: 10em ;
+		color: white;
 	}
 
 	#home .home-header-container .header-subheader {
-		margin: ;
-		color: ;
+		margin: 5px;
+		color: white;
 	}
 
-@media only screen and (max-width: ){
+@media only screen and (max-width: 768px ){
 	#home {
-		padding: ;
-		text-algin: ;
+		padding: 15% 0 5% 0 ;
+		text-algin: center;
 	}
 	#home .home-image-container {
-		font-size: ;
-		width: ;
+		font-size: 4em ;
+		width: 100% ;
 	}
 	#home .home-header-container{
-		width: ;
+		width: 100%;
 	}
 	#home .home-header-container .home-header{
-		font-size: ;
+		font-size: 7em;
 	}
 	#home .home-header-container .home-subheader{
-		font-size: ;
-		margin: ;
-		color: ;
+		font-size: 2em ;
+		margin: 5px ;
+		color: white;
 	}
 }
 
 .member-subheaders{
-	text-algin: ;
-	margin-bottom: ;
-	margin-top: ;
+	text-algin: center;
+	margin-bottom: 10%;
+	margin-top: 3% ;
 }
 
 .memberImage{
@@ -237,8 +237,8 @@ socialMediaLinks{
 }
 
 .memberImage p{
-	font-weight: ;
-	color: ;
+	font-weight: 2% ;
+	color: white;
 	text-transform: ;
 	margin: ;
 	position: ;
