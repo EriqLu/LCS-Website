@@ -227,24 +227,26 @@ socialMediaLinks{
 }
 
 .memberImage{
-	margin-bottom: ;
-	background-repeat: ;
-	background-position: ;
-	position: ;
-	text-algin: ;
-	vertical-algin: ;
-	min-height: ;
+	margin-bottom: 2%;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: 50% 50%;
+	position: relative;
+	text-algin: center;
+	vertical-algin: center;
+	min-height: 10vh !important;
+	
 }
 
 .memberImage p{
-	font-weight: 2% ;
+	font-weight: 900 ;
 	color: white;
-	text-transform: ;
-	margin: ;
-	position: ;
-	top: ;
-	left: ;
-	transform: translate( %, %);
+	text-transform: uppercase;
+	margin: 0;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate( -50%, -50%);
 }
 
 .quickLinks{
