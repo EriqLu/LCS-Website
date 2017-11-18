@@ -15,6 +15,6 @@ Owner: Alex Magana (@amagana8) & Jose Bucio (@jlbucio4)
 # Our Progress of the Website
 So far, we are putting all of the pieces together and make adjustments later in the semester. We have a new member is helping us working on the website that helps us keep our progress a lot quicker. We will be ready to release our website before December 2017 as a goodbye 2017 present and say hello to 2018.
 
-# What's next for LCS???
+# What's next for LxCS???
 After our website, we are developing an application, robotics, and a product that involves using a 3-D Printing to be present to new members for next year and for Engineering Open House coming this March 2018. Adding to that, we will be part of HackIllinois to spread the word, recieve sponsorships, and present our progress as a club. Stay Tune. 
 
