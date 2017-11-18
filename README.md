@@ -1,4 +1,4 @@
-# Latino/as in Computer Science @ University of Illinois
+# Latinx in Computer Science @ University of Illinois
 Department of Computer Science | College of Engineering | Urbana, Illinois 
 
 # About Us 
@@ -16,5 +16,3 @@ So far, we are putting all of the pieces together and make adjustments later in 
 # What's next for LCS???
 After our website, we are developing an application, robotics, and a product that involves using a 3-D Printing to be present to new members for next year and for Engineering Open House coming this March 2018. Adding to that, we will be part of HackIllinois to spread the word, recieve sponsorships, and present our progress as a club. Stay Tune. 
 
-# Web Development Credits
-Alex Magana, Jose Bucio, Javier Garza
