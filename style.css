@@ -250,23 +250,23 @@ socialMediaLinks{
 }
 
 .quickLinks{
-	background-repeat: ;
-	background-size: ;
-	background-position: ;
-	position: ;
-	text-align: ;
-	vertical-algin: ;
-	min-height: ;
+	background-repeat: no-repeat ;
+	background-size:cover ;
+	background-position: 50% 50% ;
+	position: relative;
+	text-align: center;
+	vertical-algin: center;
+	min-height: 5vh !important;
 }
 .quickLinks p{
-	font-weight: ;
-	color: ;
-	text-transform: ;
-	margin: ;
-	position: ;
-	top: ;
-	left: ;
-	transform: translate( %, %); 
+	font-weight: 700;
+	color: black;
+	text-transform: uppercase;
+	margin: 0;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate( -50%, -50%); 
 }
 
 			
