@@ -13,8 +13,22 @@
     "gulp-sass": "^2.4.1"
   },
   
-  "scripts": {
-  "test": "echo / "Error: no test specified\" && exit 1"
-  
+ "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IllinoisLxCS/IllinoisLxCS.github.io.git"
+  },
+  "keywords": [
+    "illinois",
+    "lxcs"
+  ],
+  "author": "Alex Magana and Jose Bucio",
+  "license": "none",
+  "bugs": {
+    "url": "https://github.com/IllinoisLxCS/IllinoisLxCS.github.io/issues"
+  },
+  "homepage": "https://github.com/IllinoisLxCS/IllinoisLxCS.github.io#readme"
+}
     
