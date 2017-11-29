@@ -18,16 +18,20 @@ So far, we are putting all of the pieces together and make adjustments later in 
 ### What's next for LxCS???
 After our website, we are developing an application, robotics, and a product that involves using a 3-D Printing to be present to new members for next year and for Engineering Open House coming this March 2018. Adding to that, we will be part of HackIllinois to spread the word, recieve sponsorships, and present our progress as a club. Stay Tune. 
 
-# Pull Request
+## Pull Request
 Here are the steps to making a change and solving an issue:
 
   1. Make a branch off master. Please give it a descriptive message
-
   2. Commit your changes onto your branch.
-
   3. Push your branch changes
-
   4. Once you're ready, create a pull request with base as the master.
-
   5. Write a descriptive title and comment. You can reference the associated issue with a #
+
+## Style Guide
+  * You can do tabs or spaces, but please set your tab to 4 spaces
+  * camelCase, not snake_case
+  * Braces on the right
+  * Lines should not be longer than 80 characters
+  * Put a comment above each function describing what it does.
+  * Alphabetize your CSS
 
