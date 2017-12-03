@@ -61,214 +61,39 @@
             "advice": " "
         },
         {
-            "position": "Mentor",
-            "firstname": "Erica",
-            "lastname": "Lee",
-            "email": "nlee16@illinois.edu",
-            "netid": "nlee16",
-            "year": "Alumna (Graduated May '17)",
-            "major": "Computer Science",
+            "position": " ",
+            "firstname": " ",
+            "lastname": " ",
+            "email": " ",
+            "netid": " ",
+            "year": " ",
+            "major": " ",
             "interests": [
-                "Systems",
-                "Security"
+                " ",
+                " "
             ],
             "experience": [
-                "Adobe Intern",
-                "Microsoft Intern",
-                "Co-Op at Kimberly-Clark",
-                "241 TA",
-                "Undergraduate Research Assistant"
+                " ",
+                " ",
+                " ",
+                " ",
+                " "
             ],
             "hobbies": [
-                "Running",
-                "Cooking",
-                "Photography",
-                "Traveling",
-                "Exploring around"
-            ],
-            "fact": "I have two scars on my forehead, both from falling down the stairs",
-            "place": "Des Plaines, IL",
-            "ask": [
-                "CS241",
-                "Switching to CS",
-                "Grad School",
-                "Bioengineering",
-                "Engineering Minors",
-                "Make-up and Beauty Stuff",
-                "Half Marathon Training"
-            ],
-            "advice": "Everything will be okay"
-        },
-        {
-            "position": "Head of Infrastructure",
-            "firstname": "Simon",
-            "lastname": "Lu",
-            "email": "shlu2@illinois.edu",
-            "netid": "shlu2",
-            "year": "Senior",
-            "major": "Computer Science and Statistics",
-            "interests": [
-                "Full-Stack development",
-                "Algorithms"
-            ],
-            "experience": [
-                "LinkedIn - Frontend Engineering Intern",
-                "Bank of America - Software Development Intern"
-            ],
-            "hobbies": [
-                "Sleeping",
-                "Reading",
-                "Cooking"
-            ],
-            "fact": "I've somehow never broken a bone",
-            "place": "St. Louis, MO",
-            "ask": [
-                "Frontend Development",
-                "Fitness"
-            ],
-            "advice": "Try hard to get involved on campus and try to find experience in your field as early as you can!"
-        },
-        {
-            "position": "Social Chair",
-            "firstname": "Pooja",
-            "lastname": "Welling",
-            "email": "pgwelli2@illinois.edu",
-            "netid": "pgwelli2",
-            "year": "Junior",
-            "major": "Computer Science",
-            "interests": [
-                "Machine Learning",
-                "Artificial Intelligence"
-            ],
-            "experience": [
-                "Capital One",
-                "Fidelity Investments",
-                "Research through PURE"
-            ],
-            "hobbies": [
-                "Reading",
-                "Hiking",
-                "Snapchat"
-            ],
-            "fact": "I like puns and watermelon. In that order.",
-            "place": "Nashua, NH",
-            "ask": [
-                "East coast tech scene",
-                "Staying organized",
-                "Work-life balance",
-                "Trying new things"
-            ],
-            "advice": "Fake it til you make it"
-        },
-        {
-            "position": "External Chair",
-            "firstname": "Alyssa",
-            "lastname": "Chen",
-            "email": "ychen374@illinois.edu",
-            "netid": "ychen374",
-            "year": "Junior",
-            "major": "Computer Science, minor in Math",
-            "interests": [
-                "Data Analytics"
-            ],
-            "experience": [
-                "Discover Intern"
-            ],
-            "hobbies": [
-                "Playing violin",
-                "Practicing handwriting",
-                "Writing food haikus"
-            ],
-            "fact": "I can eat a bowl of noodles in under a minute",
-            "place": "San Jose, CA",
-            "ask": [
-                "CS 225"
-            ],
-            "advice": "Don't be shy"
-        },
-        {
-            "position": "Outreach Chair",
-            "firstname": "Sylvia",
-            "lastname": "Haas",
-            "email": "smhaas2@illinois.edu",
-            "netid": "smhaas2",
-            "year": "Senior",
-            "major": "Computer Science and Statistics",
-            "interests": [
-                "Data Visualization"
-            ],
-            "experience": [
-                "Gems counselor",
-                "Research with Professor Shaffer"
-            ],
-            "hobbies": [
-                "Swimming",
-                "Cooking",
-                "Photography",
-                "Laughing"
-            ],
-            "fact": "I'm fluent in German",
-            "place": "Urbana, IL",
-            "ask": [
-                "CS 125",
-                "CS 225",
-                "Things to do in Urbana"
-            ],
-            "advice": "Grades don't define you"
-        },
-        {
-            "position": "Corporate Chair",
-            "firstname": "Shivali",
-            "lastname": "Patel",
-            "email": "supatel2@illinois.edu",
-            "netid": "supatel2",
-            "year": "Junior",
-            "major": "Computer Science",
-            "interests": [
-                "Artificial Intelligence",
-                "Data Science",
-                "Neuroscience"
-            ],
-            "experience": [
-                "Research at Beckman I'm Computational Neurobiology lab",
-                "Capital One at Research Park"
-            ],
-            "hobbies": [
-                "Badminton",
-                "Roller Skating",
-                "TV"
-            ],
-            "fact": "My favorite food are sprinkles!",
-            "place": "Darien, IL",
-            "ask": [
-                "Getting involved",
-                "Course scheduling"
-            ],
-            "advice": "Pace yourself with classes, but don't let yourself fall behind. Friends fall into place; don't try so hard. "
-        },
-        {
-            "position": "Tech Team Co-Chair",
-            "firstname": "Varsha",
-            "lastname": "Subrahmanyam",
-            "email": "varsha2@illinois.edu",
-            "netid": "varsha2",
-            "year": "Junior",
-            "major": "Computer Science and Statistics",
-            "interests": [
-                "Data Science",
-                "Machine Learning",
-                "EdTech"
-            ],
-            "experience": [
-                "Google Intern (2017)"
-            ],
-            "hobbies": [
-                "Singing",
-                "Playing piano"
+                " ",
+                " ",
+                " ",
+                " ",
+                " "
             ],
             "fact": " ",
             "place": " ",
             "ask": [
+                " ",
+                " ",
+                " ",
+                " ",
+                " ",
                 " ",
                 " "
             ],
@@ -292,14 +117,17 @@
             ],
             "hobbies": [
                 " ",
+                " ",
                 " "
             ],
             "fact": " ",
             "place": " ",
             "ask": [
+                " ",
                 " "
             ],
             "advice": " "
+        }
         }
     ]
 }
