@@ -61,7 +61,7 @@
             "advice": " "
         },
         {
-            "position": " ",
+            "position": "Secretary",
             "firstname": " ",
             "lastname": " ",
             "email": " ",
@@ -100,7 +100,95 @@
             "advice": " "
         },
         {
-            "position": " ",
+            "position": "Tresurer",
+            "firstname": " ",
+            "lastname": " ",
+            "email": " ",
+            "netid": " ",
+            "year": " ",
+            "major": " ",
+            "interests": [
+                " ",
+                " "
+            ],
+            "experience": [
+                " ",
+                " "
+            ],
+            "hobbies": [
+                " ",
+                " ",
+                " "
+            ],
+            "fact": " ",
+            "place": " ",
+            "ask": [
+                " ",
+                " "
+            ],
+            "advice": " "
+        },
+        {
+            "position": "Outreach Chair",
+            "firstname": " ",
+            "lastname": " ",
+            "email": " ",
+            "netid": " ",
+            "year": " ",
+            "major": " ",
+            "interests": [
+                " ",
+                " "
+            ],
+            "experience": [
+                " ",
+                " "
+            ],
+            "hobbies": [
+                " ",
+                " ",
+                " "
+            ],
+            "fact": " ",
+            "place": " ",
+            "ask": [
+                " ",
+                " "
+            ],
+            "advice": " "
+            },
+        {
+            "position": "Tech Chair",
+            "firstname": " ",
+            "lastname": " ",
+            "email": " ",
+            "netid": " ",
+            "year": " ",
+            "major": " ",
+            "interests": [
+                " ",
+                " "
+            ],
+            "experience": [
+                " ",
+                " "
+            ],
+            "hobbies": [
+                " ",
+                " ",
+                " "
+            ],
+            "fact": " ",
+            "place": " ",
+            "ask": [
+                " ",
+                " "
+            ],
+            "advice": " "
+        },
+        
+        {
+            "position": "Graduate Ambassador",
             "firstname": " ",
             "lastname": " ",
             "email": " ",
@@ -128,5 +216,5 @@
             ],
             "advice": " "
         }
-    ]
+   ]
 }
