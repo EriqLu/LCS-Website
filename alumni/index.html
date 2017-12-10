@@ -4,30 +4,104 @@
 		<title> Latinx in Computer Science @ University of Illinois </title>
 		<link rel="stylesheet" type="text/css" href="style.css">
 		
-		<meta name="description" content="Get to know our alumin of LCS @ Illinois."/>
+		<meta name="description" content="Get to know our alumin of LxCS @ Illinois."/>
 		<meta http-equic="content-type" content="text/html" charset="UTF-8"/>
 		<meta name="viewpoint" content="width=device-width. initial-scale=1.0"/>
 		<meta property="og:title" content="Officers"/>
 		<meta property="og:type" content= "Tech Industry"/>
+		<meta property="og:site_name" content="Latinx in Computer Science"/>
 		<meta property="og:url" content= "www.latinxcs.illinois.edu"/>
+		<meta property="og:image" content="" />
+		
+		<link rel="shortcut icon" href="" type="image/x-icon">
+        	<link rel="icon" href="" type="image/x-icon">
+		
+		<link href="https://fonts.googleapis.com/css?family=Oswald" rel="stylesheet" />
+        	<link href="https://fonts.googleapis.com/css?family=Mallanna" rel="stylesheet">
+
+       	 	<link rel="stylesheet" type="text/css" href=""></link>
+        	<link rel="stylesheet" type="text/css" href=""></link>
+        	<link rel="stylesheet" type="text/css" href=""></link>
+
+        	<script type="text/javascript" src=""></script>
+        	<script type="text/javascript" src=""></script>
+        	<script type="text/javascript" src=""></script>
+        	<script type="text/javascript" src=""></script>
+        	<script type="text/javascript" src=""></script>
 								
 	</head>
 
 	<body>
 	<input type="image" src="assets/img/LCS_white.png" width="200">
-		<div class="collapse navbar-collapse" id="mainNavbar">						      
+		<body id="page-top" data-spy="scroll" data=target=".navbar-fixed-top">
+		<div class="container-fluid">
+		<div class="collapse navbar-collapse" id="mainNavbar">	
+		 <button type="button" class="navbar-toggle collapsed" data toggle="collapse" data-target="mainNavbar">
+			 <span class="sr-only">Toggle Navigation</span>
+                         <span class="icon-bar"></span>
+                         <span class="icon-bar"></span>
+                         <span class="icon-bar"></span>
+                 </button>
+			<a class="navbar-brand" href="/">
+                        <img src="" class="" />
+                    </a>
+                </div>
 			<ul id="navbar">
-				<li><a href="home.html">Home</a></li>
-				<li><a href="about_us.html">About Us</a></li>
-				<li><a href="events.html">Events</a></li>
-				<li><a href="resources.html">Resources</a></li>
-				<li><a href="officers.html">Officers</a></li>
-				<li><a href="alumni.html">Alumni</a></li>
-				<li><a href="contact.html">Contact</a></li>
+				<li><a href="index.html"> Home </a></li>
+				<li><a href="/about"> About </a></li>
+				<li><a href="/members"> Events </a></li>
+				<li><a href="/resource"> Resources </a></li>
+				<li><a href="/officers"> Officers </a></li>
+				<li><a href="/alumni"> Alumni </a></li>
+				<li><a href="/contact"> Contact </a></li>
 			</ul>
-		</div>
+		    </div>
+	         </div>
+              </div>
+          </nav>
 							  
-							  
+	<script type="text/x-mustache" id="alumniTemplate">
+            <div class="row">
+                {{#featured}}
+                    <div class="col-sm-4">
+                        <div class="thumbnail">
+                            <img src="{{img}}" data-toggle="modal" data-target="#{{id}}"></img>
+                            <div class="caption">
+                                <h4 align="center">{{name}}</h4>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="modal fade" id="{{id}}">
+                        <div class="modal-dialog">
+                            <div class="modal-content">
+                                <div class="modal-header">
+                                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                                    <h4 class="modal-title">{{name}}</h4>
+                                </div>
+                                <div class="modal-body">
+                                    <div class="row">
+                                        <div class="col-md-6">
+                                            <img class="alumniPicture" src="{{img}}">
+                                            </img>
+                                        </div>
+                                        <div class="col-md-6">
+                                            <p><b>{{where}}</b></p>
+                                            <p><b>{{degree}}</b></p>
+                                            <p><b>{{grad}}</b></p>
+                                            <p><b>Involvement: </b>{{involvement}}</p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="modal-footer">
+                                    <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                {{/featured}}
+            </div>
+        </script>
+
 		<h2> Alumni - Graduated from UIUC </h2>
 		<h3> Where Are They Now? </h3>
 		
@@ -64,7 +138,7 @@
 							
 			<p> Alba J. Rico - Class of 2011 </p>
 				<p> Her concentration is in Databases and she was the Secretary for the Spring 2011. </p>
-				<p> She joined the Latino/a Computer Science Club to motivate more Latino and minority students to join Computer Science and increase the number of Latinos in the department. </p>
+				<p> She joined the Latinx Computer Science Club to motivate more Latino and minority students to join Computer Science and increase the number of Latinos in the department. </p>
 				<p> She really enjoyed her experience as Secretary and she wish she could have applied for a officer position long time ago so she could have contributed much more. </p>
 				<p> Even though that she graduated, she would like to keep in touch with the club and keep contributing in whatever she can. </p>
 				<p> So do not hesitate in contact her at (joycerico85@gmail.com) in case you need an advise or for any reason. She will be happy to help. </p>
